@@ -1,2 +1,2 @@
 # Novatool
-- 이미지 컨버팅 툴
+- image converting tool for embedded system
