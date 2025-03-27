@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: novatool-304.github.io/sitemap.xml
